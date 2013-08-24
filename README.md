@@ -1,4 +1,4 @@
-AngularProject
+##AngularProject
 
 1. Please download node and run node ./scripts/web-server.js to start the web server.
 
